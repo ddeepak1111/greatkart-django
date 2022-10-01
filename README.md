@@ -1,2 +1,0 @@
-# greatkart-django
-# greatkart-django
